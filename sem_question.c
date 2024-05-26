@@ -1,3 +1,6 @@
+// Операционная система: Windows 11
+// IDE: VSCode
+
 #include <stdio.h>
 
 int main(void) {
